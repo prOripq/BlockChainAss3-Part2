@@ -10,7 +10,7 @@ This repository contains a Solidity smart contract, **Aitu_SE2315_YussupovZhangi
 
 ## 📂 File Structure
 ```
-📁 hardhat-project
+📁 hardhat-tutorial
  ├── 📂 contracts
  │   └── Token.sol    # Smart contract
  ├── 📂 test
