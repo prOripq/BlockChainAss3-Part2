@@ -8,4 +8,3 @@ This repository contains a Solidity smart contract, **Aitu_SE2315_YussupovZhangi
 - Supports token minting with an initial supply parameter.
 - Functions for transaction sender, receiver, and timestamp retrieval.
 
-## 📂 File Structure
